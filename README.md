@@ -1,5 +1,5 @@
 <h1 align='center'> Hi, I'm Tim!</h1>
-<div align='center' style="display: flex; justify-content: center; align-items: center;">
+<div align='center'>
   <img src="https://datasecurityinc.com/wp-content/uploads/2022/07/DATA-7.gif" style="height: 40%; width: 60%;" />
 </div>
 
