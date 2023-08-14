@@ -1,5 +1,5 @@
-### Hi, I'm Tim! 👋
-
+<h1 align='center'> Hi, I'm Tim! :wave:</h1>
+<img src="https://datasecurityinc.com/wp-content/uploads/2022/07/DATA-7.gif"/>
 <!--
 **timdecillis/timdecillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
