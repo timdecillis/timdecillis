@@ -4,15 +4,15 @@
 
 <h3 align="left">Fullstack Engineer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Typescript**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **timdecillis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tim-decilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tammam-tautou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tim-decillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tammam-tautou" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/timdecillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tammamtautou" height="30" width="40" /></a>
 </p>
 
