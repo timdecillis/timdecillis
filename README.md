@@ -4,7 +4,7 @@
 
 <h3 align="left">Fullstack Engineer</h3>
 
-- 🌱 I’m currently learning **Python, Typescript**
+- 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **Javascript, React**
 
